@@ -1,1 +1,1 @@
-change the first line of ‘second.md’ to something else
+make a commit to change the first line of ‘second.md’ to something different to what you did in Step 7
